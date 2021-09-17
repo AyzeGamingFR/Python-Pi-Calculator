@@ -6,6 +6,6 @@ class piCalculate(decimals) :
     
     for self.calculations < self.decimals :
         
-        self.pi *= ()
+        self.pi *= 1 ^ self.calculations
         
     print("The number is : " +self.pi)
