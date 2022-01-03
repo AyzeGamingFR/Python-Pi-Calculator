@@ -20,4 +20,4 @@ class piCalculate(self, decimals) :
             self.character = "rem"
             self.number += 2
             
-    print("The number is : " +self.pi)
+    print("The number is : " +(self.pi + 3))
