@@ -1,4 +1,4 @@
-class piCalculate(decimals) :
+class piCalculate(self, decimals) :
     
     self.calculations = 0
     self.character = "rem"
